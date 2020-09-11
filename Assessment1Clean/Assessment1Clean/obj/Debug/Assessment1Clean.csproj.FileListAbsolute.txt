@@ -1,0 +1,7 @@
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\obj\Debug\Assessment1Clean.csprojResolveAssemblyReference.cache
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\obj\Debug\Assessment1Clean.csproj.CoreCompileInputs.cache
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\bin\Debug\Assessment1Clean.exe.config
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\bin\Debug\Assessment1Clean.exe
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\bin\Debug\Assessment1Clean.pdb
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\obj\Debug\Assessment1Clean.exe
+C:\Users\Abbie\Desktop\Algorithms Assessment 1\AlgorithmsAssessment1\Assessment1Clean\Assessment1Clean\obj\Debug\Assessment1Clean.pdb
